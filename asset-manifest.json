@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-image-DropnCrop/static/css/main.5f361e03.chunk.css",
+    "main.js": "/react-image-DropnCrop/static/js/main.9ed202d4.chunk.js",
+    "main.js.map": "/react-image-DropnCrop/static/js/main.9ed202d4.chunk.js.map",
+    "runtime-main.js": "/react-image-DropnCrop/static/js/runtime-main.d3b62731.js",
+    "runtime-main.js.map": "/react-image-DropnCrop/static/js/runtime-main.d3b62731.js.map",
+    "static/js/2.207e65b2.chunk.js": "/react-image-DropnCrop/static/js/2.207e65b2.chunk.js",
+    "static/js/2.207e65b2.chunk.js.map": "/react-image-DropnCrop/static/js/2.207e65b2.chunk.js.map",
+    "index.html": "/react-image-DropnCrop/index.html",
+    "precache-manifest.72deb7d1898ed0ddeef512c1bfe46275.js": "/react-image-DropnCrop/precache-manifest.72deb7d1898ed0ddeef512c1bfe46275.js",
+    "service-worker.js": "/react-image-DropnCrop/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/react-image-DropnCrop/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.207e65b2.chunk.js.LICENSE.txt": "/react-image-DropnCrop/static/js/2.207e65b2.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/react-image-DropnCrop/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d3b62731.js",
+    "static/js/2.207e65b2.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.9ed202d4.chunk.js"
+  ]
+}
